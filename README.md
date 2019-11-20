@@ -34,7 +34,7 @@ SAVE_PRINCESS
 :computer: Developerment skill
 ------------
 - 라이브러리 : Swing
-- 언어 : JAVA
+- 언어 : Java
 - IDE : Eclipse 2018-12
 
 :rocket: Description
