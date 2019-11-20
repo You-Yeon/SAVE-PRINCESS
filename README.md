@@ -31,6 +31,11 @@ SAVE_PRINCESS
 단팥빵을 맨날 먹기 위해 유연한 공주를 납치한 것이였습니다.
 유연한 왕자는 유연한 공주를 되찾기 위해 마왕에게 싸움을 겁니다.
 
+:computer: Developerment skill
+------------
+- 라이브러리 : Swing
+- 언어 : JAVA
+- IDE : Eclipse 2018-12
 
 :rocket: Description
 -----------
