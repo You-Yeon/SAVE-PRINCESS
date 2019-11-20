@@ -34,3 +34,55 @@ SAVE_PRINCESS
 
 :rocket: Description
 -----------
+
+# 비행기
+
+- Blue 비행기 : 10초마다 무적이됩니다. ( 지속시간 3초 ) 
+  체력: :heart::heart::heart:, 이동 속도: 중, 공격 속도: 중  
+  
+  ![Blue](https://user-images.githubusercontent.com/44610250/69218549-48b40e80-0bb4-11ea-97d2-1872fb52a1c3.gif)
+
+
+- Green 비행기 : 5초마다 거대 미사일을 발사합니다. ( 지속시간 2초 ) 
+  체력: :heart::heart:, 이동 속도: 하, 공격 속도: 상  
+  
+  ![Green](https://user-images.githubusercontent.com/44610250/69218546-48b40e80-0bb4-11ea-8413-faf292b21cf3.gif)
+
+
+- Pink 비행기 : 5초마다 체력 반칸이 향상됩니다. ( 최대체력까지 ) 
+  체력: :heart::heart::heart::heart::heart:, 이동 속도: 하, 공격 속도: 중  
+  
+  ![Pink](https://user-images.githubusercontent.com/44610250/69218544-481b7800-0bb4-11ea-95d5-2d717083bc64.gif)
+
+
+- Yellow 비행기 : 10초마다 미사일을 두발씩 발사합니다. ( 지속시간 3초 ) 
+  체력: :heart::heart::heart:, 이동 속도: 상, 공격 속도: 하  
+  
+  ![Yellow](https://user-images.githubusercontent.com/44610250/69218545-481b7800-0bb4-11ea-8d9d-ea198f1f4b21.gif)
+
+
+# 적
+
+- Stage 1.
+  + 다스 베이더(Stage1) : 5초마다 거대 미사일을 발사합니다. ( 지속시간 3초 )  
+
+쿠파(Stage2) : 3초마다 거대 미사일을 발사합니다. ( 지속시간 3초 )
+
+- 뚱이(Stage3) : 뚱이 미사일을 맞으면 플레이어 이동속도가 감소합니다.
+
+- 우디(Stage4) : 우디 미사일은 엇갈리게 발사됩니다.
+```
+   ㅇ
+      ㅇ
+   ㅇ
+      ㅇ     <- 이렇게 엇갈리게 발사합니다.
+```
+
+- 버즈(Stage4) : 5초마다 독 미사일(초록색 별)을 발사합니다. ( 지속시간 2초 )
+
+- 노진구(Stage5) : 노진구의 미사일을 맞으면 플레이어의 공격속도가 감소됩니다
+
+- 도라에몽(Stage5) : 미사일을 세 발씩 발사합니다, 앞에 쉴드가 두개가 있습니다.
+
+[![Save_princess_capture](https://user-images.githubusercontent.com/44610250/69220558-a77b8700-0bb8-11ea-9050-43e7483f89ae.png)](https://www.youtube.com/watch?v=gWnQVD03AXk&t=62s)
+
