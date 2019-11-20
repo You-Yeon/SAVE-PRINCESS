@@ -88,9 +88,10 @@ Blue, Green, Pink, Yellow로 각각 다른 패시브를 가지고 있습니다.
  
 - Stage 5.
     + 노진구 : 노진구의 미사일을 맞으면 플레이어의 공격속도가 감소됩니다
-    + 도라에몽(Boss) : 미사일을 세 발씩 발사합니다, 앞에 쉴드가 두개가 있습니다.
+    + 도라에몽(Boss) : 미사일을 세 발씩 발사합니다, 앞에 쉴드가 두개가 있습니다.  
 
 
+    
 *( 이미지를 클릭하면 유튜브로 넘어갑니다. )*
 
 [![Save_princess_capture](https://user-images.githubusercontent.com/44610250/69220558-a77b8700-0bb8-11ea-9050-43e7483f89ae.png)](https://www.youtube.com/watch?v=gWnQVD03AXk&t=62s)
