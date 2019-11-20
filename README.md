@@ -96,5 +96,5 @@ Blue, Green, Pink, Yellow로 각각 다른 패시브를 가지고 있습니다.
 [![Save_princess_capture](https://user-images.githubusercontent.com/44610250/69220558-a77b8700-0bb8-11ea-9050-43e7483f89ae.png)](https://www.youtube.com/watch?v=gWnQVD03AXk&t=62s)
 
 
- *# 영상에서 나오는 게임방법에서 방향키 부분이 수정되었습니다. 왼쪽, 오른쪽뿐만 아니라 위아래로도 이동이 가능합니다. #*
+ **_ 영상에서 나오는 게임방법에서 방향키 부분이 수정되었습니다. 왼쪽, 오른쪽뿐만 아니라 위아래로도 이동이 가능합니다. _**
 
